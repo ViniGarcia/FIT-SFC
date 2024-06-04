@@ -5,11 +5,11 @@ FT-SFC: Fault Tolerant Service Function Chain
 
 ### What is FT-SFC?
 
-FT-SFC is a new replication and fault tolerance strategy for service function chains. This strategy considers the possibility of three SFC components failing: VNF, SC, and SFF. We assume that the SFC components can crash, omit messages, and be intruded (byzantine faults).<br/> 
+<p align="justify">FT-SFC is a new replication and fault tolerance strategy for service function chains. This strategy considers the possibility of three SFC components failing: VNF, SC, and SFF. We assume that the SFC components can crash, omit messages, and be intruded (byzantine faults).<br/></p>
 
 ### How does it was created?
 
-FT-SFC was developed using Python 3 programming language.
+<p align="justify">FT-SFC was developed using Python 3 programming language.</p>
 
 ### Next Steps
 
@@ -18,7 +18,7 @@ FT-SFC was developed using Python 3 programming language.
 
 ### Support
 
-Contact us towards git issues requests or by the e-mail vfulber@inf.ufsm.br.
+<p align="justify">Contact us towards git issues requests or by the e-mail vinicius@inf.ufpr.br.</p>
 
 ### FT-SFC Research Group
 
@@ -28,4 +28,4 @@ Elias Procópio Duarte Junior (UFPR - Brazil)
 
 ### Publications
 
-V. Fulber-Garcia, G. V. de Souza and E. P. Duarte Jr., "Arquitetura e Mapeamento de Serviços Virtualizados de Rede Tolerantes a Falhas e Intrusão", in XXIII Workshop de Testes e Tolerância a Falhas (WTF), Fortaleza, Brazil, 2022.
+<p align="justify">V. Fulber-Garcia, G. V. de Souza and E. P. Duarte Jr., "Arquitetura e Mapeamento de Serviços Virtualizados de Rede Tolerantes a Falhas e Intrusão", in XXIII Workshop de Testes e Tolerância a Falhas (WTF), Fortaleza, Brazil, 2022.</p>
